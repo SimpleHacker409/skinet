@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uxWyZJ6wAWQyp4Wat1OVX5nLyRN+XK6iexFr/boR23AQBI5iczCrZg1P8mOlF0NGjul1TLPXnErhrP1EUyw7AQ==",
+  "dgSpecHash": "falDerI/GtJINbEi9nLDy86DPa3R5hhMk8Zqvw3zcIMuWXEt2OLq0audPVu5gLFNCBYvYvI2PywsBO/ZG19H/w==",
   "success": true,
-  "projectFilePath": "D:\\Angular_dotnet\\Demo\\skinet\\API\\API.csproj",
+  "projectFilePath": "D:\\Angular_dotnet\\Demo\\skinet\\Api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\manju\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\manju\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
