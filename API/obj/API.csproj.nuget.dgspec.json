@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Angular_dotnet\\Demo\\skinet\\Api\\API.csproj": {}
+    "D:\\Angular_dotnet\\Demo\\skinet\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\Angular_dotnet\\Demo\\skinet\\Api\\API.csproj": {
+    "D:\\Angular_dotnet\\Demo\\skinet\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Angular_dotnet\\Demo\\skinet\\Api\\API.csproj",
+        "projectUniqueName": "D:\\Angular_dotnet\\Demo\\skinet\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\Angular_dotnet\\Demo\\skinet\\Api\\API.csproj",
+        "projectPath": "D:\\Angular_dotnet\\Demo\\skinet\\API\\API.csproj",
         "packagesPath": "C:\\Users\\manju\\.nuget\\packages\\",
-        "outputPath": "D:\\Angular_dotnet\\Demo\\skinet\\Api\\obj\\",
+        "outputPath": "D:\\Angular_dotnet\\Demo\\skinet\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\manju\\AppData\\Roaming\\NuGet\\NuGet.Config"
